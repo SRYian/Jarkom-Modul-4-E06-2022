@@ -206,7 +206,6 @@ Routing dilakukan pada router. Klik router. Klik tab config menu static dan tamb
 
 ![image](https://user-images.githubusercontent.com/72675854/204090248-9d5d42fb-ec03-4d12-b890-2ef2dd220a7a.png)
 
-### Pembagian IP
 ### Configuration
 ### Routing
 ### Testing
