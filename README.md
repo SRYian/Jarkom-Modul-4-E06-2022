@@ -174,33 +174,33 @@ Routing dilakukan pada router. Klik router. Klik tab config menu static dan tamb
 
 <img width="453" alt="image" src="https://user-images.githubusercontent.com/72675854/204091309-905835f8-ebb4-47a2-bb73-e01a10a53b67.png">
 
-
 <img width="195" alt="image" src="https://user-images.githubusercontent.com/72675854/204090541-b3a681e4-24dd-4698-b8c8-91468fed0a10.png">
+
 
 <img width="456" alt="image" src="https://user-images.githubusercontent.com/72675854/204091318-c7823207-b730-4c74-8077-54306a9d04cc.png">
 
-![E](https://user-images.githubusercontent.com/72675854/204091329-0d8baa36-01f2-41c2-952a-7981211eab9a.jpg)
+
 
 
 <img width="183" alt="image" src="https://user-images.githubusercontent.com/72675854/204090548-8b418682-e23c-4ad0-a460-28df0610b86f.png">
 
-![F](https://user-images.githubusercontent.com/72675854/204091346-346ef112-c9ff-495d-a8b0-58fef9e65b05.jpg)
+![E](https://user-images.githubusercontent.com/72675854/204091329-0d8baa36-01f2-41c2-952a-7981211eab9a.jpg)
 
 
 <img width="197" alt="image" src="https://user-images.githubusercontent.com/72675854/204090555-ba1e7881-36bb-460c-afe3-108dfad128f6.png">
 
-![G1](https://user-images.githubusercontent.com/72675854/204091350-0a249640-5837-49eb-813a-2d3a2af66d18.jpg)
+![F](https://user-images.githubusercontent.com/72675854/204091346-346ef112-c9ff-495d-a8b0-58fef9e65b05.jpg)
 
 
 <img width="194" alt="image" src="https://user-images.githubusercontent.com/72675854/204090559-ed653aa0-36db-4f42-927f-d02d68efb486.png">
 
 
-![H](https://user-images.githubusercontent.com/72675854/204091354-61768854-fa57-4266-acdc-ad9b17df98c1.jpg)
+![G1](https://user-images.githubusercontent.com/72675854/204091350-0a249640-5837-49eb-813a-2d3a2af66d18.jpg)
 
 
 <img width="481" alt="image" src="https://user-images.githubusercontent.com/72675854/204090569-7a006767-6e79-44fb-82a5-ea3ecc95a697.png">
 
-
+![H](https://user-images.githubusercontent.com/72675854/204091354-61768854-fa57-4266-acdc-ad9b17df98c1.jpg)
 
 ### CIDR Tree
 
