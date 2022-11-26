@@ -65,22 +65,22 @@ Tambahkan gateway yang mengarah ke router terdekat pada server dan client pada s
 Routing dilakukan pada router. Klik router. Klik tab config menu static dan tambahkan data.
 
 ##### The Refonance
-192.195.0.4/30 via 192.195.0.10
-192.195.0.64/26 via 192.195.0.10
-192.195.8.0/22 via 192.195.0.10.
-192.195.0.0/30 via 192.195.0.10.
-192.195.2.0/24 via 192.195.0.10.
-192.195.0.24/30 via 192.195.0.26.
-192.195.6.0/23 via 192.195.0.26
-192.195.0.16/30 via 192.195.0.18.
-192.195.0.128/30 via 192.195.0.18.
-192.195.0.20/30 via 192.195.0.18.
-192.195.1.128/25 via 192.195.0.18.
-192.195.1.0/25 via 192.195.0.18.
-192.195.0.12/30 via 192.195.0.18
-192.195.4.0/23 via 192.195.0.18.
-192.195.3.0/24 via 192.195.0.18.
-192.195.0.28/30 via 192.195.0.18
+192.195.0.4/30 via 192.195.0.10<br>
+192.195.0.64/26 via 192.195.0.10<br>
+192.195.8.0/22 via 192.195.0.1<br>
+192.195.0.0/30 via 192.195.0.10<br>
+192.195.2.0/24 via 192.195.0.10<br>
+192.195.0.24/30 via 192.195.0.26<br>
+192.195.6.0/23 via 192.195.0.26<br>
+192.195.0.16/30 via 192.195.0.18<br>
+192.195.0.128/30 via 192.195.0.18<br>
+192.195.0.20/30 via 192.195.0.18<br>
+192.195.1.128/25 via 192.195.0.18<br>
+192.195.1.0/25 via 192.195.0.18<br>
+192.195.0.12/30 via 192.195.0.18<br>
+192.195.4.0/23 via 192.195.0.18<br>
+192.195.3.0/24 via 192.195.0.18<br>
+192.195.0.28/30 via 192.195.0.18<br>
 
 
 <img width="343" alt="image" src="https://user-images.githubusercontent.com/72675854/204084276-0251d716-3e3f-41e7-8d42-e41513266d8d.png">
@@ -89,14 +89,14 @@ Routing dilakukan pada router. Klik router. Klik tab config menu static dan tamb
 
 
 ##### The Instrument
-0.0.0.0/0 via 192.195.0.17
-192.195.0.20/30 via 192.195.0.22
-192.195.1.128/25 via 192.195.0.22
-192.195.1.0/25 via 192.195.0.22
-192.195.0.12/30 via 192.195.0.14
-192.195.3.0/24 via 192.195.0.14
-192.195.4.0/23 via 192.195.0.14
-192.195.0.28/30 via 192.195.0.14
+0.0.0.0/0 via 192.195.0.17<br>
+192.195.0.20/30 via 192.195.0.22<br>
+192.195.1.128/25 via 192.195.0.22<br>
+192.195.1.0/25 via 192.195.0.22<br>
+192.195.0.12/30 via 192.195.0.14<br>
+192.195.3.0/24 via 192.195.0.14<br>
+192.195.4.0/23 via 192.195.0.14<br>
+192.195.0.28/30 via 192.195.0.14<br>
 
 <img width="345" alt="image" src="https://user-images.githubusercontent.com/72675854/204084283-5d480499-f268-4b1c-b8a4-400b692a00d7.png">
 
@@ -104,10 +104,10 @@ Routing dilakukan pada router. Klik router. Klik tab config menu static dan tamb
 
 
 ##### The Order
-0.0.0.0/0 via 192.195.0.9
-192.195.8.0/22 via 192.195.0.6
-192.195.0.0/30 via 192.195.0.6
-192.195.2.0/24 via 192.195.0.6
+0.0.0.0/0 via 192.195.0.9 <br>
+192.195.8.0/22 via 192.195.0.6<br>
+192.195.0.0/30 via 192.195.0.6<br>
+192.195.2.0/24 via 192.195.0.6<br>
 
 <img width="345" alt="image" src="https://user-images.githubusercontent.com/72675854/204084302-26a60893-bd85-4f8f-8001-aec1ca4bd99f.png">
 
@@ -115,15 +115,15 @@ Routing dilakukan pada router. Klik router. Klik tab config menu static dan tamb
 
 
 ##### The Minister
-0.0.0.0/0 via 192.195.0.5
-192.195.2.0/24 via 192.195.0.2
+0.0.0.0/0 via 192.195.0.5<br>
+192.195.2.0/24 via 192.195.0.2<br>
 
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/72675854/204084347-1d9f3c8f-7180-4c52-a627-8dc26161dd9b.png">
 
 
 ##### The Firefist
-0.0.0.0/0 via 192.195.0.13
-192.195.0.28/30 via 192.195.3.3
+0.0.0.0/0 via 192.195.0.13<br>
+192.195.0.28/30 via 192.195.3.3<br>
 
 <img width="347" alt="image" src="https://user-images.githubusercontent.com/72675854/204084355-1e1870e4-dc84-436b-8086-eee5bcd96efa.png">
 
