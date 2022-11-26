@@ -162,7 +162,11 @@ Routing dilakukan pada router. Klik router. Klik tab config menu static dan tamb
 
 ## CIDR - GNS3
 
-
+### Penggabungan Subnet
+### Pembagian IP
+### Configuration
+### Routing
+### Testing
 
 
 
