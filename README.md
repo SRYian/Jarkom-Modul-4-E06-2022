@@ -163,6 +163,16 @@ Routing dilakukan pada router. Klik router. Klik tab config menu static dan tamb
 ## CIDR - GNS3
 
 ### Penggabungan Subnet
+<img width="183" alt="image" src="https://user-images.githubusercontent.com/72675854/204090524-8b688023-8d5b-4fed-940a-b832d937b017.png">
+<img width="202" alt="image" src="https://user-images.githubusercontent.com/72675854/204090534-b67382f8-1fb6-4de7-8846-9c5fe150ceb3.png">
+<img width="195" alt="image" src="https://user-images.githubusercontent.com/72675854/204090541-b3a681e4-24dd-4698-b8c8-91468fed0a10.png">
+<img width="183" alt="image" src="https://user-images.githubusercontent.com/72675854/204090548-8b418682-e23c-4ad0-a460-28df0610b86f.png">
+<img width="197" alt="image" src="https://user-images.githubusercontent.com/72675854/204090555-ba1e7881-36bb-460c-afe3-108dfad128f6.png">
+<img width="194" alt="image" src="https://user-images.githubusercontent.com/72675854/204090559-ed653aa0-36db-4f42-927f-d02d68efb486.png">
+<img width="481" alt="image" src="https://user-images.githubusercontent.com/72675854/204090569-7a006767-6e79-44fb-82a5-ea3ecc95a697.png">
+
+
+
 ### CIDR Tree
 
 ![image](https://user-images.githubusercontent.com/72675854/204090248-9d5d42fb-ec03-4d12-b890-2ef2dd220a7a.png)
